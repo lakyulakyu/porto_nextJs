@@ -1,5 +1,3 @@
-import react from "react";
-import {FaFigma} from "react-icons/fa"
 
 export default function Testimoni(){
     return(

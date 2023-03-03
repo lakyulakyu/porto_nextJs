@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "@/components/layout";
 import Navbar from "@/components/navbar";
 import Image from "next/image";
-import mypict from "/public/image/image_face.png";
+import mypict from "/public/image/pict-1.png";
 import Footer from "@/components/foooter";
 
 export default function profile() {
@@ -35,10 +35,10 @@ export default function profile() {
             <div className="relative col-span-12 px-4 text-gray-400 ">
               <div className="col-span-12 space-y-12 relative  sm:col-span-8 sm:space-y-8   ">
                 <div className="flex hover:bg-slate-200 p-4  flex-col sm:relative   ">
-                  <h3 className="text-xl font-semibold tracking-wide">
+                  <h3 className="text-xl font-semibold tracking-wide hover:text-gray-600">
                     TK AL-IKLASH
                   </h3>
-                  <time className="text-xs tracking-wide uppercase hover:text-gray-600 text-gray-400">
+                  <time className="text-xs tracking-wide uppercase  text-gray-400">
                     2008-2011
                   </time>
                   <p className="mt-3">

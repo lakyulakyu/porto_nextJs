@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Glaz",
+      "description": "Description for Product 1",
+      "price": 40,
+      "image": "/foto-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bomber",
+      "description": "Description for Product 2",
+      "price": 70,
+      "image": "/foto-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Green Cargo Pants",
+      "description": "Description for Product 3",
+      "price": 100,
+      "image": "/foto-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "'Just' Black Hoodie",
+      "description": "Description for Product 2",
+      "price": 30,
+      "image": "/foto-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Black Cap 'Just' Series",
+      "description": "Description for Product 2",
+      "price": 20,
+      "image": "/foto-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Country Road Jacket",
+      "description": "Description for Product 2",
+      "price": 120,
+      "image": "/foto-1.jpg"
+    }
+  ]

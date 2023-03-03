@@ -5,7 +5,7 @@ export default function Layout(props){
 <div>
     <Head>
         <title>{props.title}</title>
-        <link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1024px-Sky_Group_logo_2020.svg.png"></link>
+        <link rel="icon" href="/public/image/pict-1.png"></link>
     </Head>
     {props.childern}
 </div>
